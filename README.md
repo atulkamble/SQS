@@ -1,4 +1,4 @@
-# AWS SQS (Simple Queue Service) Practice Lab
+# AWS SQS (Simple Queue Service)
 
 ## Objective
 
